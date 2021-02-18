@@ -18,8 +18,8 @@ function guess {
     
       echo "Incorrect, the number is too high, try again" } 
 }
-	}
-		}
+  }
+    }
 while num=!5;
 guessinggame
 
