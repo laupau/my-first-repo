@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+README.md : guessinggame.sh
 int files=5
 echo "Welcome to the game!"
 echo "How many files are in the current directory?"
