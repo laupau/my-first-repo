@@ -12,11 +12,11 @@ function guess {
 
 	else if [[ $num < $files ]] {
 
-			echo "Incorrect, the number is too low, try again" }
+		echo "Incorrect, the number is too low, try again" }
   
   	else if [[ $num > $files ]] {
     
-      echo "Incorrect, the number is too high, try again" } 
+      		echo "Incorrect, the number is too high, try again" } 
 }
   }
     }
